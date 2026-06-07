@@ -28,9 +28,9 @@ Construir uma carreira sólida em tecnologia, desenvolvendo soluções que gerem
 
 ## 📫 Contato
 
-💼 LinkedIn: SEU_LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/eder-daniel44
 
-📧 E-mail: SEU_EMAIL
+📧 E-mail: ederdaniel12467@gmail.com
 
 ---
 
