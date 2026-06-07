@@ -50,3 +50,7 @@ Construir uma carreira sólida em tecnologia, desenvolvendo soluções que gerem
   <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
+
+<p align="center">
+COBOL 🦖
+</p>
