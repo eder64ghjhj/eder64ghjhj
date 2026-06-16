@@ -1,52 +1,66 @@
-# Olá! Eu sou o Eder Daniel 👋
+# Eder Daniel 👋
 
-🎓 Estudante de Gestão da Tecnologia da Informação (GTI)
-
-💻 Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
-
-🚀 Buscando evoluir constantemente através de projetos, estudos e novas tecnologias.
+Estudante de GTI buscando minha primeira oportunidade como estagiário em desenvolvimento de software.
+Gosto de construir coisas do zero e estou sempre aprendendo algo novo.
 
 ---
 
-## 📖 Formação e Estudos
+## 🎓 Formação
 
-🎓 Gestão da Tecnologia da Informação (GTI)
-
-🏆 PROPROFISSÃO — Programação Web Java (440h)
-
-🏫 Instituto PROA em parceria com o SENAC
-
-📚 Estudos contínuos em Desenvolvimento de Software, Banco de Dados, Java e COBOL.
+- Gestão da Tecnologia da Informação (GTI) — 5º semestre
+- PROPROFISSÃO — Programação Web Java (440h)
+- Instituto PROA em parceria com o SENAC
 
 ---
+
+## 🛠️ Tecnologias
+
+**Back-end**
+`Java` `Spring Boot` `Node.js` `Python`
+
+**Front-end**
+`React` `TypeScript` `JavaScript` `React Native` `HTML` `CSS`
+
+**Banco de dados**
+`MySQL`
+
+**Ferramentas**
+`Git` `GitHub`
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🟣 Diferencial
+
+![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=for-the-badge&logo=ibm&logoColor=white)
+
 
 ## 🎯 Objetivo
 
-Construir uma carreira sólida em tecnologia através do aprendizado contínuo, desenvolvimento de software e resolução de problemas.
+Conseguir meu primeiro estágio em desenvolvimento de software e crescer construindo projetos reais.
 
 ---
 
-## 📫 Contato
+## 📬 Contato
 
-💼 LinkedIn: https://www.linkedin.com/in/eder-daniel44
-
-📧 E-mail: ederdaniel12467@gmail.com
+- LinkedIn: [eder-daniel44](https://www.linkedin.com/in/eder-daniel44)
+- E-mail: ederdaniel12467@gmail.com
 
 ---
 
-⭐ "A melhor forma de aprender é construir, errar, corrigir e continuar evoluindo."
-
-
-
-###
-
-<div align="center">
-  <img alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-</div>
+> "A melhor forma de aprender é construir, errar, corrigir e continuar evoluindo."
