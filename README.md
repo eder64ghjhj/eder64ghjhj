@@ -7,7 +7,7 @@ Gosto de construir coisas do zero e estou sempre aprendendo algo novo.
 
 ## 🎓 Formação
 
-- Gestão da Tecnologia da Informação (GTI) — 5º semestre
+- Gestão da Tecnologia da Informação (GTI) — 6º semestre
 - PROPROFISSÃO — Programação Web Java (440h)
 - Instituto PROA em parceria com o SENAC
 
