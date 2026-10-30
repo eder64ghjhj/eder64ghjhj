@@ -58,7 +58,7 @@ Conseguir meu primeiro estágio em desenvolvimento de software e crescer constru
 
 ## 📬 Contato
 
-- LinkedIn: [eder-daniel44](https://www.linkedin.com/in/eder-daniel44)
+- LinkedIn: [eder-daniel44](https://www.linkedin.com/in/eder-daniel-da-silva)
 - E-mail: ederdaniel12467@gmail.com
 
 ---
